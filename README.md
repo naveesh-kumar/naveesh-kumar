@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naveesh-kumar
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning react/node/mongodb
+- 🌱 I’m currently learning react/next
 - 📫 I'm available at naveesh88@gmail.com
 
 <!---
